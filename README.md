@@ -8,7 +8,7 @@
 
 ## About Me
 <div align="left">
-Sou apaixonada por tecnologia, especialmente pelas áreas de front-end e inteligência artificial. Tenho mais de 3 anos de experiência na área, atuando com suporte técnico e desenvolvendo pequenas aplicações para automatizar processos internos. Além disso, possuo habilidades em design e marketing, que contribuem significativamente para o meu desenvolvimento profissional.
+Sou apaixonada por tecnologia, especialmente pelas áreas de <b>front-end</b> e <b>inteligência artificial</b>. Tenho mais de 3 anos de experiência na área, atuando com suporte técnico e desenvolvendo pequenas aplicações para automatizar processos internos. Além disso, possuo habilidades em design e marketing, que contribuem significativamente para o meu desenvolvimento profissional.
 
 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade Unicesumar, onde fui contemplada com uma bolsa integral (100%) pelo ProUni. Sou entusiasta do aprendizado contínuo e do desenvolvimento de soluções; estou em constante evolução, sempre buscando aprimorar minhas habilidades técnicas e criativas.
 
@@ -69,6 +69,8 @@ Meu principal objetivo é criar soluções inovadoras que otimizem processos, re
   </a>
 </div>
 
+
 <div align="center" style="display: inline_block;"><br>
-  <img alt="Debora-Js" height="100" width="100 src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-89.gif">
+  <img alt="Debora-Js" height="100" width="100" src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-89.gif">
 </div>
+

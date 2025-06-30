@@ -34,9 +34,20 @@
   </a>
 </div>
 
-### 🐍
-![snake gif](https://raw.githubusercontent.com/deboralorayne/deboralorayne/output/github-contribution-grid-snake.gif)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <div align="center" style="display: inline_block;"><br>
   <img alt="Debora-Js" height="100" width="100" src="https://media.discordapp.net/attachments/1187117896669872238/1262475390140813452/YAg6.gif?ex=6696bb54&is=669569d4&hm=202fed4b7fa1ad279c22fe14388fb33e22de910c216ba995b9e3dd89533e8a33&=&width=565&height=565">

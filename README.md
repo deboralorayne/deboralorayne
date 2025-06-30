@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  Minas Gerais, Brasil | 19 anos | Análise e Desenvolvimento de Sistemas | Suporte
+  Minas Gerais, Brasil | 20 anos | Análise e Desenvolvimento de Sistemas | Suporte
 </div>
 
 ## Estou aprendendo 🎯
@@ -36,6 +36,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
+## Minhas contribuições 🐍  
+![Snake animation](https://github.com/deboralorayne/deboralorayne/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" style="display: inline_block;"><br>
   <img alt="Debora-Js" height="100" width="100" src="https://media.discordapp.net/attachments/1187117896669872238/1262475390140813452/YAg6.gif?ex=6696bb54&is=669569d4&hm=202fed4b7fa1ad279c22fe14388fb33e22de910c216ba995b9e3dd89533e8a33&=&width=565&height=565">

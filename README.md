@@ -24,16 +24,6 @@
   </picture>
 </div>
 
-## Onde me encontrar 📍
-<div align="center">
-  <a href="mailto:deboralorrayne23@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/debora-lorayne-4a577a234/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -48,6 +38,16 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+## Onde me encontrar 📍
+<div align="center">
+  <a href="mailto:deboralorrayne23@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/debora-lorayne-4a577a234/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 <div align="center" style="display: inline_block;"><br>
   <img alt="Debora-Js" height="100" width="100" src="https://media.discordapp.net/attachments/1187117896669872238/1262475390140813452/YAg6.gif?ex=6696bb54&is=669569d4&hm=202fed4b7fa1ad279c22fe14388fb33e22de910c216ba995b9e3dd89533e8a33&=&width=565&height=565">

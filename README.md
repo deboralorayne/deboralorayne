@@ -6,7 +6,7 @@
  Brazil | Front-End Developer | Data Analysis | Technical Support
 </div>
 
-## Skills 🎯
+## Skills 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -16,10 +16,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/React_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Developer"/>
 </p>
 
-## Stats 🥇
+
+## Stats 
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=deboralorayne&show_icons=true&theme=synthwave" media="(prefers-color-scheme: dark)" />
@@ -43,7 +43,7 @@
   />
 </picture>
 
-## Let’s connect!📍
+## Let’s connect!
 <div align="center">
   <a href="mailto:deboralorrayne23@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">

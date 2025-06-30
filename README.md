@@ -28,6 +28,8 @@
   </picture>
 </div>
 
+## Snake
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -42,6 +44,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</div>
 
 ## Let’s connect!
 <div align="center">
@@ -50,6 +53,10 @@
   </a>
   <a href="https://www.linkedin.com/in/debora-lorayne-4a577a234/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+ </a>
+  <a href="https://wa.me/5535987066779" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%25D54F44?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
 

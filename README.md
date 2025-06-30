@@ -6,6 +6,15 @@
  Brazil | Front-End Developer | Data Analysis | Technical Support
 </div>
 
+## About Me
+<div align="left">
+Sou apaixonada por tecnologia, especialmente pelas áreas de front-end e inteligência artificial. Tenho mais de 3 anos de experiência na área, atuando com suporte técnico e desenvolvendo pequenas aplicações para automatizar processos internos. Além disso, possuo habilidades em design e marketing, que contribuem significativamente para o meu crescimento profissional.
+
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade Unicesumar, onde fui contemplada com uma bolsa integral (100%) pelo ProUni. Sou entusiasta do aprendizado contínuo e do desenvolvimento de soluções; estou em constante evolução, sempre buscando aprimorar minhas habilidades.
+
+Meu principal objetivo é criar soluções inovadoras que otimizem processos, reduzam tarefas repetitivas e promovam eficiência. Estou sempre em busca de desafios que me permitam evoluir profissionalmente e gerar impacto positivo no mercado de tecnologia.
+</div>
+
 ## Skills 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>

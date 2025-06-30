@@ -70,5 +70,5 @@ Meu principal objetivo é criar soluções inovadoras que otimizem processos, re
 </div>
 
 <div align="center" style="display: inline_block;"><br>
-  <img alt="Debora-Js" src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-89.gif">
+  <img alt="Debora-Js" height="100" width="100 src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-89.gif">
 </div>

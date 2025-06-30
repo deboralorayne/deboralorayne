@@ -8,11 +8,11 @@
 
 ## About Me
 <div align="left">
-Sou apaixonada por tecnologia, especialmente pelas áreas de front-end e inteligência artificial. Tenho mais de 3 anos de experiência na área, atuando com suporte técnico e desenvolvendo pequenas aplicações para automatizar processos internos. Além disso, possuo habilidades em design e marketing, que contribuem significativamente para o meu crescimento profissional.
+Sou apaixonada por tecnologia, especialmente pelas áreas de front-end e inteligência artificial. Tenho mais de 3 anos de experiência na área, atuando com suporte técnico e desenvolvendo pequenas aplicações para automatizar processos internos. Além disso, possuo habilidades em design e marketing, que contribuem significativamente para o meu desenvolvimento profissional.
 
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade Unicesumar, onde fui contemplada com uma bolsa integral (100%) pelo ProUni. Sou entusiasta do aprendizado contínuo e do desenvolvimento de soluções; estou em constante evolução, sempre buscando aprimorar minhas habilidades.
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade Unicesumar, onde fui contemplada com uma bolsa integral (100%) pelo ProUni. Sou entusiasta do aprendizado contínuo e do desenvolvimento de soluções; estou em constante evolução, sempre buscando aprimorar minhas habilidades técnicas e criativas.
 
-Meu principal objetivo é criar soluções inovadoras que otimizem processos, reduzam tarefas repetitivas e promovam eficiência. Estou sempre em busca de desafios que me permitam evoluir profissionalmente e gerar impacto positivo no mercado de tecnologia.
+Meu principal objetivo é criar soluções inovadoras que otimizem processos, reduzam tarefas repetitivas e promovam eficiência — sempre aliando desempenho a um design bonito, responsivo e intuitivo. Estou em busca de desafios que me permitam crescer profissionalmente e gerar um impacto positivo no mercado de tecnologia.
 </div>
 
 ## Skills 
@@ -70,5 +70,5 @@ Meu principal objetivo é criar soluções inovadoras que otimizem processos, re
 </div>
 
 <div align="center" style="display: inline_block;"><br>
-  <img alt="Debora-Js" height="100" width="100" src="https://media.discordapp.net/attachments/1187117896669872238/1262475390140813452/YAg6.gif?ex=6696bb54&is=669569d4&hm=202fed4b7fa1ad279c22fe14388fb33e22de910c216ba995b9e3dd89533e8a33&=&width=565&height=565">
+  <img alt="Debora-Js" height="100" width="100" src="https://images.app.goo.gl/Y788h2BnyohqRVjm9">
 </div>

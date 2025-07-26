@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- Brazil | Front-End Developer | Data Analysis | Technical Support
+ Brazil | Full-Stack Developer | Data Analysis | Technical Support
 </div>
 
 ## About Me

@@ -74,4 +74,7 @@ Meu principal objetivo é criar soluções inovadoras que otimizem processos, re
   <img alt="Debora-Js" height="100" width="100" src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-89.gif">
 </div>
 
-@2025 Debora Lorayne, Inc. All rights reserved
+<div align="center" style="display: inline_block;"><br>
+  @2025 Debora Lorayne, Inc. All rights reserved
+</div>
+

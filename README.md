@@ -8,8 +8,6 @@
 
 ## About Me
 <div align="left">
-## About Me
-
 I'm a Full-Stack Developer passionate about building solutions that automate processes, improve workflows and make people's lives easier.
 
 Over the last 3+ years, I've worked with technical support, databases, ERP systems, cloud environments and internal automation, combining software development with real business needs.
@@ -40,15 +38,6 @@ Currently, I'm expanding my knowledge in AI, modern web development and software
 </p>
 
 
-## Stats 
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=deboralorayne&show_icons=true&theme=synthwave" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=deboralorayne&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=deboralorayne&show_icons=true" alt="Debora's GitHub stats" />
-  </picture>
-</div>
-
 ## Snake
 <div align="center">
 <picture>
@@ -72,7 +61,7 @@ Currently, I'm expanding my knowledge in AI, modern web development and software
   <a href="mailto:deboralorrayne23@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/debora-lorayne-4a577a234/" target="_blank">
+  <a href="https://www.linkedin.com/in/deboralorayne/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
  </a>
@@ -87,6 +76,6 @@ Currently, I'm expanding my knowledge in AI, modern web development and software
 </div>
 
 <div align="center" style="display: inline_block;"><br>
-  @2025 Debora Lorayne, Inc. All rights reserved
+  @2026 Debora Lorayne, Inc. All rights reserved
 </div>
 

@@ -3,16 +3,28 @@
 </div>
 
 <div align="center">
- Brazil | Full-Stack Developer | Data Analysis | Technical Support
+ Brazil 🇧🇷 | Full-Stack Developer | SQL & Data | AI Automation
 </div>
 
 ## About Me
 <div align="left">
-Sou apaixonada por tecnologia, especialmente pelas áreas de <b>full stack</b>, <b>dados</b> e <b>inteligência artificial</b>. Tenho mais de 3 anos de experiência na área, atuando com suporte técnico e desenvolvendo pequenas aplicações para automatizar processos internos. Além disso, possuo habilidades em design e marketing, que contribuem significativamente para o meu desenvolvimento profissional.
+## About Me
 
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade Unicesumar, onde fui contemplada com uma bolsa integral (100%) pelo ProUni. Sou entusiasta do aprendizado contínuo e do desenvolvimento de soluções; estou em constante evolução, sempre buscando aprimorar minhas habilidades técnicas e criativas.
+I'm a Full-Stack Developer passionate about building solutions that automate processes, improve workflows and make people's lives easier.
 
-Meu principal objetivo é criar soluções inovadoras que otimizem processos, reduzam tarefas repetitivas e promovam eficiência — sempre aliando desempenho a um design bonito, responsivo e intuitivo. Estou em busca de desafios que me permitam crescer profissionalmente e gerar um impacto positivo no mercado de tecnologia.
+Over the last 3+ years, I've worked with technical support, databases, ERP systems, cloud environments and internal automation, combining software development with real business needs.
+
+My main interests are:
+
+- 🤖 Artificial Intelligence
+- 📊 Data Analysis
+- 💻 Full-Stack Development
+- ☁️ Cloud Solutions
+- ⚡ Process Automation
+
+I enjoy transforming repetitive tasks into smart applications with clean code, intuitive interfaces and practical results.
+
+Currently, I'm expanding my knowledge in AI, modern web development and software engineering while building personal projects and contributing to the tech community.
 </div>
 
 ## Skills 
